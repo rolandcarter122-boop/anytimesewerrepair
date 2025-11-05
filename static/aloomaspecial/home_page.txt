@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Why does my yard smell like a sewer?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">An unpleasant smell in your yard often means there’s a leak or break in your sewer line. It’s best to have a professional plumber inspect your sewer system to locate and fix the issue before it worsens.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What DIY method can I use to solve backups in my toilet drain?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You can try using a plunger or a drain snake for minor clogs. However, if the backup keeps returning or affects multiple drains, it’s likely a deeper sewer issue that requires professional cleaning or hydrojetting.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you fix sewer repairs on holidays?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we do. We offer 24/7 emergency sewer repair services, including weekends and holidays.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you provide routine sewer maintenance? 
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. We make a scheduled plan for  sewer inspections and cleaning services to keep your system flowing.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you help clear blockages in sewer pipes?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely! We clear clogs like grease buildup, tree roots, or debris  blocking your pipe using a hydrojetting machine, which also cleans the pipe internally.</p>
+                <div class="callalooma mx-auto"><a href="tel:820200-6280">Click Here To Call Us (820) 200-6280</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
